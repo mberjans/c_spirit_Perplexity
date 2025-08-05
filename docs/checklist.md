@@ -11,11 +11,11 @@ Below is a detailed checklist of atomic tasks for each ticket.
 
 ### T-001  Draft project glossary
 
-- [ ] **T-001-01** Write unit-test skeleton validating that generated glossary JSON has required keys (`term`, `definition`).
-- [ ] **T-001-02** Collect seed papers (5+) into `data/seeds/papers/`.
-- [ ] **T-001-03** Write script to extract candidate glossary terms.
-- [ ] **T-001-04** Generate initial glossary draft (`glossary_draft.json`).
-- [ ] **T-001-05** Run unit tests for glossary structure.
+- [x] **T-001-01** Write unit-test skeleton validating that generated glossary JSON has required keys (`term`, `definition`).
+- [x] **T-001-02** Collect seed papers (5+) into `data/seeds/papers/`.
+- [x] **T-001-03** Write script to extract candidate glossary terms.
+- [x] **T-001-04** Generate initial glossary draft (`glossary_draft.json`).
+- [x] **T-001-05** Run unit tests for glossary structure.
 
 
 ### T-002  Approve glossary
