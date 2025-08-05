@@ -1,3 +1,6 @@
+"""
+This script extracts candidate glossary terms from a collection of papers.
+"""
 import os
 import re
 import json

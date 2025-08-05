@@ -20,11 +20,11 @@ Below is a detailed checklist of atomic tasks for each ticket.
 
 ### T-002  Approve glossary
 
-- [ ] **T-002-01** Write unit test: glossary entries flagged “approved” must have non-empty definitions.
-- [ ] **T-002-02** Create review spreadsheet from `glossary_draft.json`.
-- [ ] **T-002-03** Run CI checks with AI static analysis and review the generated report
-- [ ] **T-002-04** Update glossary JSON with approvals.
-- [ ] **T-002-05** Execute approval unit tests.
+- [x] **T-002-01** Write unit test: glossary entries flagged “approved” must have non-empty definitions.
+- [x] **T-002-02** Create review spreadsheet from `glossary_draft.json`.
+- [x] **T-002-03** Run CI checks with AI static analysis and review the generated report
+- [x] **T-002-04** Update glossary JSON with approvals.
+- [x] **T-002-05** Execute approval unit tests.
 
 
 ### T-003  Fetch external ontology metadata

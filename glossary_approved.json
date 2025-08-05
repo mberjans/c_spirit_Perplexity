@@ -1,0 +1,37 @@
+[
+    {
+        "term": "this",
+        "definition": "This is a definition for 'this'.",
+        "approved": true
+    },
+    {
+        "term": "a",
+        "definition": "This is a definition for 'a'.",
+        "approved": true
+    },
+    {
+        "term": "for",
+        "definition": "This is a definition for 'for'.",
+        "approved": true
+    },
+    {
+        "term": "second",
+        "definition": "This is a definition for 'second'.",
+        "approved": true
+    },
+    {
+        "term": "paper",
+        "definition": "This is a definition for 'paper'.",
+        "approved": true
+    },
+    {
+        "term": "third",
+        "definition": "This is a definition for 'third'.",
+        "approved": true
+    },
+    {
+        "term": "fifth",
+        "definition": "This is a definition for 'fifth'.",
+        "approved": true
+    }
+]
